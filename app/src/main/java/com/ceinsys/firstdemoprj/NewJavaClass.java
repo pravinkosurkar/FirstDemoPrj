@@ -5,4 +5,5 @@ package com.ceinsys.firstdemoprj;
  */
 
 public class NewJavaClass {
+
 }
