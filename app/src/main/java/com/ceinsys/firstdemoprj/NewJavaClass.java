@@ -5,5 +5,10 @@ package com.ceinsys.firstdemoprj;
  */
 
 public class NewJavaClass {
+  
+  Log.d("","");
+        Log.d("","kjhfdkjghkgfkjkjfdiuyeirtet");
+  Log.d("","");
+        Log.d("","kjhfdkjghkgfkjkjfdiuyeirtet");
 
 }
